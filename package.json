@@ -1,6 +1,6 @@
 {
   "name": "binaryjs-client",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "BinaryJS Client for browsers bundled for Webpack",
   "main": "index.js",
   "scripts": {
